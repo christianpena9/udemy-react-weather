@@ -1,5 +1,5 @@
 {
-  "name": "udemy-react-boilerplate",
+  "name": "udemy-react-weather",
   "version": "1.0.0",
   "description": "Simple react app",
   "main": "index.js",
@@ -11,7 +11,8 @@
   "dependencies": {
     "express": "^4.16.4",
     "react": "^0.14.7",
-    "react-dom": "^0.14.7"
+    "react-dom": "^0.14.7",
+    "react-router": "^2.8.1"
   },
   "devDependencies": {
     "@babel/preset-stage-0": "^7.0.0",
