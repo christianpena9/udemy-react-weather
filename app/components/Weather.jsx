@@ -11,6 +11,7 @@ var Weather = React.createClass({
                 <h3>Weather Component</h3>
                 <WeatherForm />
                 <WeatherMessage />
+                
             </div>
         )
     }
